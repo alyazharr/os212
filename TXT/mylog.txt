@@ -6,4 +6,6 @@ ZCZC W00  10 L01 SCELE/Discord related
 ZCZC W00  30 L02 ZOOM meetings related
 ZCZC W00  05 L03 GitHub related
 ZCZC W00  20 L04 GitHub Pages related
-ZCZC W00  120 L09 Reading Assignment #5 Week00 
+ZCZC W00  70 L09 Reading Assignment #5 Week00 and watch Udacity videos on YouTube
+ZCZC W00  50 L09 Trying problems for Week 00 at slides
+ZCZC W00  60 L99 Creating notes on notion for OS week 00
