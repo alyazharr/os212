@@ -13,4 +13,4 @@ ZCZC W00  60 L99 Creating notes on notion for OS week 00
 ZCZC W01  05 L05 Quiz W01 T/F  
 ZCZC W01  60 L08 Asdos assist about Week 01
 ZCZC W01  30 L10 Assignment #1: VirtualBox Guest Preparation
-ZCZC W01  120 L10 Assignment #2: Importing or Installing?
+ZCZC W01 120 L11 Assignment #2: Importing or Installing?
