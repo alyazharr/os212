@@ -15,3 +15,4 @@ ZCZC W01  60 L08 Asdos assist about Week 01
 ZCZC W01  30 L10 Assignment #1: VirtualBox Guest Preparation
 ZCZC W01 120 L11 Assignment #2: Importing or Installing?
 ZCZC W01 120 L19 Assignment #9: Read OS10 chap 1,2,18 (last week for quiz prep)
+ZCZC W01 150 L09 Assignment #3: GSGS, trying Linux Command, and Implemented it
