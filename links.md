@@ -1,8 +1,10 @@
 ---
 permalink: /LINKS/
----
+---  
 
-# SOME USEFUL LINKS  
+[HOME](https://alyazharr.github.io/os212/) | [LINK]({{ site.baseurl }}/LINKS/) | [GITHUB](https://github.com/alyazharr) | [LOG](https://alyazharr.github.io/os212/TXT/mylog.txt)  
+
+## SOME USEFUL LINKS  
 > _"if you have knowledge, let others light their candles in it. –Margaret Fuller_  
 
 1. [Markdown Cheatsheet](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops#:~:text=a%20new%20paragraph.-,In%20a%20Markdown%20file%20or%20widget%2C%20enter%20two%20spaces%20before,break%2C%20and%20then%20select%20Enter.)<br>
