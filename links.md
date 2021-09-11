@@ -4,7 +4,7 @@ permalink: /LINKS/
 
 [HOME](https://alyazharr.github.io/os212/) | [LINK](.) | [GITHUB](https://github.com/alyazharr) | [LOG](https://alyazharr.github.io/os212/TXT/mylog.txt)  
 
-## SOME USEFUL LINKS  
+## SOME USEFUL LINKS 🔗👍  
 
 > _"if you have knowledge, let others light their candles in it. –Margaret Fuller_  
 
@@ -12,7 +12,6 @@ permalink: /LINKS/
 It really helps me to understand the markdown for writing and dress-up my GitHub page. All of this things is really just a new things for me :D Well, GSGS is really help and powerful for us to explore ourself without any limit, to the infinity and beyond !  
 
 2. [Visual Metaphor](https://www.youtube.com/playlist?list=PLqoiDr4YpRdm_nzFhCDuj74P8ul5z7SdO)  
-This link actually is from our lecturer, Mr. Rahmat, but it really helps to understand *_why do we need to learn Operating System, what is that ?_* which also stuck in my head for this past 2 weeks. Hope it may clear your vision ! :D  
+This link actually is from our lecturer, Mr. Rahmat, but it really helps to understand *why do we need to learn Operating System and what is that ?* which also stuck in my head for this past 2 weeks. Hope it may clear your vision ! :D  
  
-### entusiasta di imparare, amici! 🤓📚
-### excited to learn, peeps! 🏃
+#### entusiasta di imparare, amici! 🤓📚
