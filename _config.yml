@@ -1,0 +1,21 @@
+title:       "OS212"
+version:     "0020---12-09-2021"
+copyright:   "2021-2021"
+description: >- 
+  This Is How Me Do It!
+  This Is How Me Do It!
+# baseurl: "" # e.g. /blog
+# url: ""     # e.g. http://example.com
+google_analytics: "UA-89852122-15"
+author:           "Alya Azhar Agharid"
+address:          "Mabad1, Belimbing St., South Jakarta"
+sitemap:          "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+urlweb:           "https://doit.vlsm.org/"
+urlcontact:       "TBA"
+urlgithub:        "https://github.com/alyazharr/os212/"
+urlghpage:        "https://alyazharr.github.io/os212/"
+keywords:         "jekyll, testing"
+github:           [metadata]
