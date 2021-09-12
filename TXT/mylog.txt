@@ -22,5 +22,5 @@ ZCZC W01 120 L14 Assignment #4: Dress Up My Virtual Guest
 ZCZC W01 120 L14 Assignment #5: SSH Keys and Git Cloning
 ZCZC W01 15  L17 Assignment #7: Update mylog.txt
 ZCZC W01 30  L16 Assignment #6: Dressing up my github implemented no jekyll theme
-ZCZC W01 125 L18i Assignment #8: Learning and trying bash, regex, sed, and awk
+ZCZC W01 125 L18 Assignment #8: Learning and trying bash, regex, sed, and awk
 
