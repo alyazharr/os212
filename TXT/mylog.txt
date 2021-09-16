@@ -23,4 +23,6 @@ ZCZC W01 120 L09 Assignment #5: SSH Keys and Git Cloning
 ZCZC W01 15  L09 Assignment #7: Update mylog.txt
 ZCZC W01 30  L09 Assignment #6: Dressing up my github implemented no jekyll theme
 ZCZC W01 125 L09 Assignment #8: Learning and trying bash, regex, sed, and awk
-
+ZCZC W02 30  L09 Assignment #3: Watching the first 15 minutes Cyber Security Introduction part 1 
+                                and Employee Security Policy part 2 
+ZCZC W02 60  L09 Assignment #1: Reading OS10 Chapter 16 and 17
