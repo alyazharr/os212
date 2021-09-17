@@ -25,4 +25,10 @@ ZCZC W01 30  L09 Assignment #6: Dressing up my github implemented no jekyll them
 ZCZC W01 125 L09 Assignment #8: Learning and trying bash, regex, sed, and awk
 ZCZC W02 30  L09 Assignment #3: Watching the first 15 minutes Cyber Security Introduction part 1 
                                 and Employee Security Policy part 2 
-ZCZC W02 60  L09 Assignment #1: Reading OS10 Chapter 16 and 17
+ZCZC W02  60 L09 Assignment #1: Reading OS10 Chapter 16 and 17
+ZCZC W02  05 L09 Assignment #4: Generate GnuPG Key Pair
+ZCZC W02  05 L09 Assignment #5: List of all GnuPG Keys
+ZCZC W02  05 L09 Assignment #6: Importing ospubkey.txt
+ZCZC W02  05 L09 Assignment #7: Signing OS public key
+ZCZC W02  05 L09 Assignment #8: Export my public key in mypubkey.txt to repo
+
