@@ -30,5 +30,10 @@ ZCZC W02  05 L09 Assignment #4: Generate GnuPG Key Pair
 ZCZC W02  05 L09 Assignment #5: List of all GnuPG Keys
 ZCZC W02  05 L09 Assignment #6: Importing ospubkey.txt
 ZCZC W02  05 L09 Assignment #7: Signing OS public key
+ZCZC W02  10 L09 Assignment #2: Try Demos C Language W02
 ZCZC W02  05 L09 Assignment #8: Export my public key in mypubkey.txt to repo
-
+ZCZC W02  30 L09 Assignment #9: Updating useful links
+ZCZC W02  20 L09 Assignment #10: Review peer links and choosing top 3
+ZCZC W02  15 L09 Assignment #11: Copy a simple and useful bash script
+ZCZC W02  05 L09 Assignment #12: Updating log mylog.txt
+ZCZC W02  15 L09 Assignment #11: Write a simple "myscript.sh" to generate SHA256SUM and SHA256SUM.asc
