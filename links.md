@@ -14,5 +14,12 @@ It really helps me to understand the markdown for writing and dress-up my GitHub
 
 2. [Visual Metaphor](https://www.youtube.com/playlist?list=PLqoiDr4YpRdm_nzFhCDuj74P8ul5z7SdO)  
 This link actually is from our lecturer, Mr. Rahmat, but it really helps to understand *why do we need to learn Operating System and what is that ?* which also stuck in my head for this past 2 weeks. Hope it may clear your vision ! :D  
+  
+3. [Cyber Security in Short Explanation](https://youtu.be/inWWhr5tnEA)  
+This link really helps me to understand the Cyber Security lessons in 7 minutes. They explain the varieties of cyber attacks, the example and varieties of Cyber Security, and even the type of attacks that experienced by companies.  
+  
+4.[5 Laws of Cyber Security](https://youtu.be/_nVq7f26-Uo)  
+This video comes with the new insights about how we place ourselves like a hacker to defense ourself and make world to be safe online. The new insights of cyber security teaches us to see from every views that has a vulnerability.  
+
  
-#### entusiasta di imparare, amici! 🤓📚
+#### Entusiasta di imparare, Amici! 🤓📚
