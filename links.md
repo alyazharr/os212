@@ -18,7 +18,7 @@ This link actually is from our lecturer, Mr. Rahmat, but it really helps to unde
 3. [Cyber Security in Short Explanation](https://youtu.be/inWWhr5tnEA)  
 This link really helps me to understand the Cyber Security lessons in 7 minutes. They explain the varieties of cyber attacks, the example and varieties of Cyber Security, and even the type of attacks that experienced by companies.  
   
-4.[5 Laws of Cyber Security](https://youtu.be/_nVq7f26-Uo)  
+4.[The Five Laws of Cyber Security](https://youtu.be/_nVq7f26-Uo)  
 This video comes with the new insights about how we place ourselves like a hacker to defense ourself and make world to be safe online. The new insights of cyber security teaches us to see from every views that has a vulnerability.  
 
  
