@@ -41,3 +41,4 @@ ZCZC W03  15 L09 Assignment #4: Check if your ".bash_aliases" file is up-todate
 ZCZC W03  30 L09 Assignment #5: Add/Create an Extra Virtual Disk (finding, formatting, mounting, change owner, and test)
 ZCZC W03  40 L09 Assignment #3: Try midterm problems no.2019-1, 2019-2, 2020-1
 ZCZC W03  05 L09 Assignment #8: Update mylog.txt
+ZCZC W03  05 L09 Assignment #9: Submit Week03 Assignment (using cbkadal script)
