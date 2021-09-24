@@ -37,3 +37,7 @@ ZCZC W02  20 L09 Assignment #10: Review peer links and choosing top 3
 ZCZC W02  15 L09 Assignment #11: Copy a simple and useful bash script
 ZCZC W02  05 L09 Assignment #12: Updating log mylog.txt
 ZCZC W02  15 L09 Assignment #11: Write a simple "myscript.sh" to generate SHA256SUM and SHA256SUM.asc
+ZCZC W03  15 L09 Assignment #4: Check if your ".bash_aliases" file is up-todate
+ZCZC W03  30 L09 Assignment #5: Add/Create an Extra Virtual Disk (finding, formatting, mounting, change owner, and test)
+ZCZC W03  40 L09 Assignment #3: Try midterm problems no.2019-1, 2019-2, 2020-1
+ZCZC W03  05 L09 Assignment #8: Update mylog.txt
