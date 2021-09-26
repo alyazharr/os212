@@ -42,3 +42,7 @@ ZCZC W03  30 L09 Assignment #5: Add/Create an Extra Virtual Disk (finding, forma
 ZCZC W03  40 L09 Assignment #3: Try midterm problems no.2019-1, 2019-2, 2020-1
 ZCZC W03  05 L09 Assignment #8: Update mylog.txt
 ZCZC W03  05 L09 Assignment #9: Submit Week03 Assignment (using cbkadal script)
+ZCZC W03  20 L09 Assignment #2: Try Demos in github UI-FASILKOM-OS
+ZCZC W03 150 L09 Assignment #1: Read chapter 13,14,15
+ZCZC W03  45 L09 Assignment #6: Update bookmark links
+ZCZC W03  20 L09 Assignment #7: Review peer links
