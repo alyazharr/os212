@@ -46,3 +46,11 @@ ZCZC W03  20 L09 Assignment #2: Try Demos in github UI-FASILKOM-OS
 ZCZC W03 150 L09 Assignment #1: Read chapter 13,14,15
 ZCZC W03  45 L09 Assignment #6: Update bookmark links
 ZCZC W03  20 L09 Assignment #7: Review peer links
+ZCZC W04  70 L09 Assignment #1: Read OSC10 slide half of chapter 9
+ZCZC W04  20 L09 Assignment #2: Try some of demos Week04
+ZCZC W04  60 L09 Assignment #3: Try some of MidTerm Problem
+ZCZC W04  05 L09 Assignment #4: Install Package List 2 (TLPI)
+ZCZC W04  05 L09 Assignment #5: Fetch and Extract File "WEEK04.tar.bz2.asc"
+ZCZC W04  05 L09 Assignment #5: Compiling The Linux Programming Interface (TLPI)
+ZCZC W04  05 L09 Assignment #5: TLPI: Result
+ZCZC W04  05 L09 Assignment #5: Create RESULT/W04 directory
