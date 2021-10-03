@@ -44,7 +44,16 @@ that we usually use on mounting file system.
 
 7. [How to Mounting File System in Linux](https://youtu.be/ssdFIWbVKZ4)  
 This video comes out with a tutorial how to mounting  
-and unmounting file system in linux.
+and unmounting file system in linux.  
+  
+#### Week 04  
+---  
+6. [Memory Management] (https://youtu.be/7aONIVSXiJ8)  
+This video really helps  us to know about memory management in Linux.  
+  
+7. [Short Management in C about malloc, calloc, realloc, and free](https://youtu.be/lQP4X3odvHE)  
+This video comes out with a short and clear explanation about short management and allocation memory in C about malloc, calloc, realloc, in C.  
+
 
  
 #### Entusiasta di imparare, Amici! 🤓📚
