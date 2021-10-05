@@ -58,3 +58,10 @@ ZCZC W04  05 L09 Assignment #6: Update bookmark links
 ZCZC W04  05 L09 Assignment #7: Review peer links  
 ZCZC W04  05 L09 Assignment #8: Update mylog.txt
 ZCZC W04  05 L09 Assignment #9: Submit Week04 Assignment
+ZCZC W05 120 L09 Assignment #2: Completing previous W03 and W04 tutorial
+                                and tutorial W05 (set configuration top)
+ 
+ZCZC W05 100 L09 Assignment #3: Do 2017-1 question of Midterm Problems
+ZCZC W05  40 L09 Assignment #4a: My LOW-MEMORY crash threshold = 185 MB, 
+                                and i set it tp 20% up to 185 is 222 MB
+ZCZC W05  40 L09 Assignment #4b: Fetch and extract file WEEK05.tar.bz2.asc 
