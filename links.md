@@ -49,7 +49,7 @@ and unmounting file system in linux.
   
 #### Week 04  
 ---  
-6. [Memory Management] (https://youtu.be/7aONIVSXiJ8)  
+6. [Memory Management](https://youtu.be/7aONIVSXiJ8)  
 This video really helps  us to know about memory management in Linux.  
   
 7. [Short Management in C about malloc, calloc, realloc, and free](https://youtu.be/lQP4X3odvHE)  
