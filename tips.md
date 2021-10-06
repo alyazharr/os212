@@ -1,9 +1,6 @@
 ---
 permalink: /TIPS/
 ---  
-
-#OS212  
-###Operating System 2021/2  
   
 [HOME](https://alyazharr.github.io/os212/) | [LINK]({{ site.baseurl }}/LINKS/) | [GITHUB](https://github.com/alyazharr) | [LOG](https://alyazharr.github.io/os212/TXT/mylog.txt) | [RANK](https://raw.githubusercontent.com/alyazharr/os212/master/TXT/myrank.txt) | [KEY](https://raw.githubusercontent.com/alyazharr/os212/master/TXT/mypubkey.txt) | [TIPS](.)  
 
