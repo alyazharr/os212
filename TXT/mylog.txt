@@ -62,6 +62,10 @@ ZCZC W05 120 L09 Assignment #2: Completing previous W03 and W04 tutorial
                                 and tutorial W05 (set configuration top)
  
 ZCZC W05 100 L09 Assignment #3: Do 2017-1 question of Midterm Problems
-ZCZC W05  40 L09 Assignment #4a: My LOW-MEMORY crash threshold = 185 MB, 
+ZCZC W05  40 L09 Assignment #4: My LOW-MEMORY crash threshold = 185 MB, 
                                 and i set it tp 20% up to 185 is 222 MB
-ZCZC W05  40 L09 Assignment #4b: Fetch and extract file WEEK05.tar.bz2.asc 
+ZCZC W05  40 L09 Assignment #4a: Fetch and extract file WEEK05.tar.bz2.asc 
+ZCZC W05  20 L09 Assignment #4b: Modify mymemory2.c  
+ZCZC W05  20 L09 Assignment #4c: Run Script and Copy the result 
+ZCZC W05  30 L09 Assignment #6 : Make TIPS for next OS semester class 
+ZCZC W05  40 L09 Assignment #7 : Update mylog.txt 
