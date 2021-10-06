@@ -2,7 +2,8 @@
 permalink: /LINKS/
 ---  
 
-[HOME](https://alyazharr.github.io/os212/) | [LINK](.) | [GITHUB](https://github.com/alyazharr) | [LOG](https://alyazharr.github.io/os212/TXT/mylog.txt)  
+[HOME](https://alyazharr.github.io/os212/) | [LINK](.) | [GITHUB](https://github.com/alyazharr) | [LOG](https://alyazharr.github.io/os212/TXT/mylog.txt) | | [RANK](https://raw.githubusercontent.com/alyazharr/os212/master/TXT/myrank.txt) | [KEY](https://raw.githubusercontent.com/alyazharr/os212/master/TXT/mypubkey.txt) | [TIPS]({{site.baseurl}}/TIPS/)  
+
 # OS212  
 
 ## SOME USEFUL LINKS 🔗👍  
