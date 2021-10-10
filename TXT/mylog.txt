@@ -68,4 +68,8 @@ ZCZC W05  40 L09 Assignment #4a: Fetch and extract file WEEK05.tar.bz2.asc
 ZCZC W05  20 L09 Assignment #4b: Modify mymemory2.c  
 ZCZC W05  20 L09 Assignment #4c: Run Script and Copy the result 
 ZCZC W05  30 L09 Assignment #6 : Make TIPS for next OS semester class 
-ZCZC W05  40 L09 Assignment #7 : Update mylog.txt 
+ZCZC W05  05 L09 Assignment #8 : Update mylog.txt 
+ZCZC W05  25 L09 Assignment #7 : Review peer links and determine top 3 ranks 
+ZCZC W05  40 L09 Assignment #5 : Update bookmark links
+ZCZC W05  05 L09 Assignment #9 : Submit 05 Assignment
+ZCZC W05 120 L09 Assignment #1 : Read OS Chap10

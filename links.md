@@ -49,12 +49,23 @@ and unmounting file system in linux.
   
 #### Week 04  
 ---  
-6. [Memory Management](https://youtu.be/7aONIVSXiJ8)  
+8. [Memory Management](https://youtu.be/7aONIVSXiJ8)  
 This video really helps  us to know about memory management in Linux.  
   
-7. [Short Management in C about malloc, calloc, realloc, and free](https://youtu.be/lQP4X3odvHE)  
+9. [Short Management in C about malloc, calloc, realloc, and free](https://youtu.be/lQP4X3odvHE)  
 This video comes out with a short and clear explanation about short management and allocation memory in C about malloc, calloc, realloc, in C.  
-
+  
+#### Week 05  
+---  
+10. [Page Replacement Theory Algorithm](https://youtu.be/2XMVk5YA7vA)  
+This video comes with a really great explanation and makes you more understand about  
+the theory of page replacement in OS  
+  
+11. [FIFO vs Optimal vs LRU Algorithm in Page Replacement](https://youtu.be/u5obgqo4rZ8)  
+Helps us to understand the differences and more understand with examples  
+  
+12. [Page Fault in OS](https://youtu.be/Nif2TZ5Cohw)  
+Helps us to understand about page fault and how to handling it in OS.  
 
  
 #### Entusiasta di imparare, Amici! 🤓📚
