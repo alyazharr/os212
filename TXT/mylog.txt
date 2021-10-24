@@ -73,3 +73,10 @@ ZCZC W05  25 L09 Assignment #7 : Review peer links and determine top 3 ranks
 ZCZC W05  40 L09 Assignment #5 : Update bookmark links
 ZCZC W05  05 L09 Assignment #9 : Submit 05 Assignment
 ZCZC W05 120 L09 Assignment #1 : Read OS Chap10
+ZCZC W06  20 L09 Assignment #4 : Fork() and Shared Memory Assignment
+ZCZC W06  65 L09 Assignment #1 : Read OS Chapter 3
+ZCZC W06  90 L09 Assignment #1 : Read OS Chapter 4
+ZCZC W06  75 L09 Assignment #3 : Try Mid Problem (2 numbers)
+ZCZC W06  40 L09 Assignment #2 : Try Demos for Week 06
+ZCZC W06   5 L09 Assignment #8 : Update Log
+ZCZC W06   5 L09 Assignment #6 : Adding TIPS for next OS semester class

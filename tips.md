@@ -35,5 +35,12 @@ but listening to the class and take notes is really helps you to understand MORE
 read it on book or slides by your own. Read the lessons from slides/books is  
 DO REALLY helps for QUIZ and also improve your curiosity about OS, somehow.  
   
+#### 6. Regularly Checking Forum at SCeLe and information at Discord  
+Well, many things that you can get from chill-discussion between teaching assistant and student  
+they share their knowledge and somehow it helps you to understand OS more. ALSO, many information  
+that you should not miss! SO, check those two information fields so you won't skip any information  
+about quiz and class.  
+  
+  
 ### Well,  
 ## G O O D . L U C K 🌟🔥😎  
