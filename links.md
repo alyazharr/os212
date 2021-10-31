@@ -66,6 +66,14 @@ Helps us to understand the differences and more understand with examples
   
 12. [Page Fault in OS](https://youtu.be/Nif2TZ5Cohw)  
 Helps us to understand about page fault and how to handling it in OS.  
+  
+#### Week 06
+---
+13. [Fork System Call](https://youtu.be/RpKQO3hgvD4)
+This video comes out with demonstration of fork() process in memory and wait() system call.
+
+14. [System Calls for Process Management](https://youtu.be/aZKNAWpFVCg)
+This video comes out with explanation with fork, wait, and exec in system calls for process management.  
 
  
 #### Entusiasta di imparare, Amici! 🤓📚
