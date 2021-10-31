@@ -80,3 +80,7 @@ ZCZC W06  75 L09 Assignment #3 : Try Mid Problem (2 numbers)
 ZCZC W06  40 L09 Assignment #2 : Try Demos for Week 06
 ZCZC W06   5 L09 Assignment #8 : Update Log
 ZCZC W06   5 L09 Assignment #6 : Adding TIPS for next OS semester class
+ZCZC W06  25 L09 Assignment #4 : Fork() and Shared Memory
+ZCZC W06  55 L09 Assignment #5 : Update bookmarks links
+ZCZC W06  35 L09 Assignment #7 : Review peer links
+ZCZC W06   5 L09 Assignment #9 : Submit W06 Assignment
