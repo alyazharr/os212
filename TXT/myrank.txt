@@ -22,3 +22,8 @@ ZCZC W05 deyuna
 ZCZC W06 dimasichsanul
 ZCZC W06 dindasrg
 ZCZC W06 ealiansyah
+
+# TOP 3 Rank
+ZCZC W07 erickezrandy274
+ZCZC W07 ezekielnicholas
+ZCZC W07 farelmapm

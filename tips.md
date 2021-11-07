@@ -41,6 +41,12 @@ they share their knowledge and somehow it helps you to understand OS more. ALSO,
 that you should not miss! SO, check those two information fields so you won't skip any information  
 about quiz and class.  
   
+#### 7. AVOID recording class and not paying attention and also start learn on the morning right
+before the quiz is held
+Well, it's really unrecommended. Since the lecture said that we decide by ourselves what we
+want to know about OS, but listening and understand the lessons is really important
+and really help you to do quiz -and go study before quiz!  
+  
   
 ### Well,  
 ## G O O D . L U C K 🌟🔥😎  

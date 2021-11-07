@@ -74,6 +74,17 @@ This video comes out with demonstration of fork() process in memory and wait() s
 
 14. [System Calls for Process Management](https://youtu.be/aZKNAWpFVCg)
 This video comes out with explanation with fork, wait, and exec in system calls for process management.  
+#### Week 07
+---
+15. [REALLY USEFUL Videos from Mr. Anwar](https://youtu.be/PKq18t_tH6I)
+I only learn from this playlist and it's really worth it and help you to understand the theory
+and the demonstration about threads to get this w07 lesson.  
+  
+16. [Mutex & Semaphore](https://youtu.be/DvF3AsTglUU)  
+Describe the differences between those two.  
+  
+17. [Mutex & Semaphore Clear Explanation](https://youtu.be/8wcuLCvMmF8)  
+It really helps to understand those two Mutex and Semaphore.  
 
  
 #### Entusiasta di imparare, Amici! 🤓📚

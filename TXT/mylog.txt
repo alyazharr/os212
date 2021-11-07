@@ -84,3 +84,12 @@ ZCZC W06  25 L09 Assignment #4 : Fork() and Shared Memory
 ZCZC W06  55 L09 Assignment #5 : Update bookmarks links
 ZCZC W06  35 L09 Assignment #7 : Review peer links
 ZCZC W06   5 L09 Assignment #9 : Submit W06 Assignment
+ZCZC W07  95 L09 Assignment #1 : Read chap 6,7,8
+ZCZC W07 100 L09 Assignment #2 : Try Demo in class on Thursday with Mr.Anwar
+ZCZC W07 135 L09 Assignment #3 : Trying midterm problem
+ZCZC W07  35 L09 Assignment #4 : Fetch, run script, do copy file report 2
+ZCZC W07  15 L09 Assignment #6 : Adding suggestion for next semester class
+ZCZC W07   5 L09 Assignment #8 : Updating mylog.txt
+ZCZC W07  10 L09 Assignment #5 : Update bookmark links
+ZCZC W07  15 L09 Assignment #7 : Review peer links
+ZCZC W07  35 L09 Assignment #9 : Submit W07 assignment
