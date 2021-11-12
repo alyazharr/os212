@@ -92,4 +92,13 @@ ZCZC W07  15 L09 Assignment #6 : Adding suggestion for next semester class
 ZCZC W07   5 L09 Assignment #8 : Updating mylog.txt
 ZCZC W07  10 L09 Assignment #5 : Update bookmark links
 ZCZC W07  15 L09 Assignment #7 : Review peer links
-ZCZC W07  35 L09 Assignment #9 : Submit W07 assignment
+ZCZC W07  55 L09 Assignment #4 : Linux From Scratch 11.0 Chapter 01-04
+ZCZC W08 135 L09 Assignment #5 : Linux From Scratch 11.0 Chapter 05
+ZCZC W08 150 L09 Assignment #1 : Read Chapter 5
+ZCZC W08  35 L09 Assignment #2 : Try Demos in github
+ZCZC W08  30 L09 Assignment #3 : Try midterm problems
+ZCZC W08  15 L09 Assignment #6 : Update bookmark links.md
+ZCZC W08  15 L09 Assignment #7 : Adding TIPS for next semester
+ZCZC W08  15 L09 Assignment #8 : Review peer links
+ZCZC W08  10 L09 Assignment #9 : Update mylog.txt
+ZCZC W08  5 L09 Assignment #10 : Submit W08 assignment

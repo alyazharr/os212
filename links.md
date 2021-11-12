@@ -85,6 +85,17 @@ Describe the differences between those two.
   
 17. [Mutex & Semaphore Clear Explanation](https://youtu.be/8wcuLCvMmF8)  
 It really helps to understand those two Mutex and Semaphore.  
+  
+#### Week 08  
+18. [10 Minutes to Understand CPU Scheduling](https://youtu.be/EWkQl0n0w5M)  
+It delivers the basic understanding about CPU Scheduling.  
+  
+19. [FCFS Algorithm in CPU Scheduling](https://youtu.be/AiVKIdGheEU)  
+It delivers information about FCFS (First Come, First Serve) Algorithm in a simply way.  
+  
+20. [FCFS, Robin Round, SJF Algorithm](https://youtu.be/exlaEOVRWQM)  
+Knowing the differences between the three different algorithm and knowing the advantages  
+for every algorithms.  
 
  
 #### Entusiasta di imparare, Amici! 🤓📚

@@ -47,6 +47,10 @@ Well, it's really unrecommended. Since the lecture said that we decide by oursel
 want to know about OS, but listening and understand the lessons is really important
 and really help you to do quiz -and go study before quiz!  
   
+#### 8. Check your grade frequently on SCeLe.  
+OS scores is always out for each week, so make sure you evaluate your score everyweek to make  
+it better and better every week. So you can get a great average score in the end of the semester.  
+
   
 ### Well,  
 ## G O O D . L U C K 🌟🔥😎  
