@@ -102,3 +102,13 @@ ZCZC W08  15 L09 Assignment #7 : Adding TIPS for next semester
 ZCZC W08  15 L09 Assignment #8 : Review peer links
 ZCZC W08  10 L09 Assignment #9 : Update mylog.txt
 ZCZC W08  5 L09 Assignment #10 : Submit W08 assignment
+ZCZC W09 155 L09 Assignment #1 : Read OSC10 chapter 11
+ZCZC W09 100 L09 Assignment #2 : Try Demos
+ZCZC W09  75 L09 Assignment #3 : Try prev finalterm problem
+ZCZC W09 180 L09 Assignment #4 : LFS chapter 6 (done)
+ZCZC W09 105 L09 Assignment #4 : LFS chapter 7 (undone)
+ZCZC W09 35 L09 Assignment #5 : Update links.md
+ZCZC W09 15 L09 Assignment #6 : Update tips.md
+ZCZC W09 15 L09 Assignment #7 : Review peer links
+ZCZC W09  5 L09 Assignment #8 : Update mylog.txt
+ZCZC W09  5 L09 Assignment #9 : Submit W09 assignment

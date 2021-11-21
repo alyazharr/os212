@@ -96,6 +96,18 @@ It delivers information about FCFS (First Come, First Serve) Algorithm in a simp
 20. [FCFS, Robin Round, SJF Algorithm](https://youtu.be/exlaEOVRWQM)  
 Knowing the differences between the three different algorithm and knowing the advantages  
 for every algorithms.  
+  
+#### Week 09
+18. [RAID and its explanation](https://youtu.be/BZE4cIm23Js)
+This video explain about RAID structures and RAID levels 0-6, and 10 in OS
+
+19. [GRUB (Grand Unified Bootloader)](https://youtu.be/1vtYJ6mwq5I)
+This video deliver many information about GRUB (Grand Unified Bootloader) which is a boot
+loader.
+
+20. [Learn about Mass Storage System](https://youtu.be/pqMTXkSM4jw)
+This video explain quite much and quite similar information with chapter 11 osc10,
+so somehow it will help you get more knowing about this chapter.  
 
  
 #### Entusiasta di imparare, Amici! 🤓📚
