@@ -112,3 +112,13 @@ ZCZC W09 15 L09 Assignment #6 : Update tips.md
 ZCZC W09 15 L09 Assignment #7 : Review peer links
 ZCZC W09  5 L09 Assignment #8 : Update mylog.txt
 ZCZC W09  5 L09 Assignment #9 : Submit W09 assignment
+ZCZC W10 135 L09 Assignment #1 : Read OSC10 chapter 12
+ZCZC W10  92 L09 Assignment #2 : Try Demos
+ZCZC W10  62 L09 Assignment #3 : Try previous finalterm problem
+ZCZC W10 300 L09 Assignment #4 : LFS chapter 7 (done)
+ZCZC W10 600 L09 Assignment #4 : LFS chapter 8 (done)
+ZCZC W10  25 L09 Assignment #5 : Update links.md
+ZCZC W10  10 L09 Assignment #6 : Update tips.md
+ZCZC W10  10 L09 Assignment #7 : Review peer links
+ZCZC W10   5 L09 Assignment #8 : Update mylog.txt
+ZCZC W10   2 L09 Assignment #9 : Submit W10

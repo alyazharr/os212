@@ -55,6 +55,10 @@ it better and better every week. So you can get a great average score in the end
 Again, OS always have weekly tasks who really help and push you to learn. So, do not think
 that the task is really simple so you do not or skip of doing it.  
 
+#### 10. Deadline is Sunday, but DO IT before THURSDAY!
+Well when you have 2 schedule for OS in a week, e.g. on monday and thursday. Then do your assignment  
+between Monday and BEFORE Thursday ended, just an advice.  
+   
   
 ### Well,  
 ## G O O D . L U C K 🌟🔥😎  

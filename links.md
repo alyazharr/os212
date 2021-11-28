@@ -109,5 +109,15 @@ loader.
 This video explain quite much and quite similar information with chapter 11 osc10,
 so somehow it will help you get more knowing about this chapter.  
 
- 
+#### Week 10
+21. [File Descriptor](https://youtu.be/KM5sRWAYqaw)
+This video teaches us the explanation and give an understanding about FD or File Descriptor.  
+  
+22. [DUP and DUP2 System Call](https://youtu.be/E3c9rp2X6xY)  
+Duplicate system call for pointer in file descriptor.  
+  
+23. [lseek System Call](https://youtu.be/MY4fUdY9Obg)  
+Learn more about lseek system call, we can learn more about the parameter of lseek().
+  
+
 #### Entusiasta di imparare, Amici! 🤓📚

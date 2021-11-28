@@ -37,3 +37,8 @@ ZCZC W08 fikriazain
 ZCZC W09 haddad9
 ZCZC W09 hakimamarullah
 ZCZC W09 hanifsyuaib
+
+# TOP 3 Rank
+ZCZC W10 hzz-hzz
+ZCZC W10 ilhanfn
+ZCZC W10 immanuelnadeak
